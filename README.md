@@ -25,7 +25,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
 </p>
 
-## I am studying
+<!-- ## I am studying
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -36,7 +36,7 @@
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
-</p>
+</p> -->
 
 ## My GitHub Stats
  <img src="https://github-readme-stats.vercel.app/api?username=LucasSantus&show_icons=true&theme=gotham" alt="Lucas Santus" width="45%" align="right"/>
