@@ -40,8 +40,8 @@
 
 ## My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSantus&show_icons=true&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=LucasSantus&show_icons=true&theme=gotham&border_color=2e4058&hide=contribs" alt="Lucas Santus" width="46%" align="right"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=LucasSantus&show_icons=true&theme=gotham&border_color=2e4058" alt="Lucas Santus" width="46%" align="right"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSantus&show_icons=true&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kritika-pattalam.repoName) -->
