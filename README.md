@@ -1,18 +1,18 @@
-### I'm Lucas Santus, Welcome! :tada:
+### Sou Lucas Santus, Bem-vindo! :tada:
  
-- 🔭 I am currently working as an Information Technology Assistant focusing on web development.
-- ⚡ I am curious about learning the most varied tools available.
-- 🌱 I'm learning amazing technologies.
- 
+- 🔭 Atualmente trabalho como Assistente de Tecnologia da Informação com foco em desenvolvimento web.
+- ⚡ Tenho curiosidade em aprender as mais variadas ferramentas disponíveis.
+- 🌱 Estou aprendendo tecnologias incríveis. 
+-
+
 <!-- ### About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](link_do_seu_perfil_no_github)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](link_do_seu_perfil_no_linkedin)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)
- 
 - Thanks for visiting. 
- 
 - Enjoy it!! o/
  -->
+ 
 ## known technologies
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
