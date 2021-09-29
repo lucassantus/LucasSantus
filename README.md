@@ -1,4 +1,4 @@
-### Sou Lucas Santus, Bem-vindo! :tada:
+### Seja Bem-vindo! :tada:
  
 - 🔭 Atualmente trabalho como Desenvolvedor Web.
 - ⚡ Tenho curiosidade em aprender as mais variadas ferramentas disponíveis no mercado.
