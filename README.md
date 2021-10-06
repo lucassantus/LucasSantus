@@ -11,7 +11,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)
  -->
  
-## Conheço
+## Tenho Conhecimento Sobre:
 
 <p>
  <img alt="Django Framework" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />
@@ -33,7 +33,7 @@
  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-## Estou Estudando
+## Estou Estudando:
 
 <p>
  <img alt="Django Framework" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />
@@ -42,7 +42,7 @@
  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
 </p>
 
-## My GitHub Stats
+## Meu Stats GitHub:
 
 <img src="https://github-readme-stats.vercel.app/api?username=LucasSantus&show_icons=true&theme=gotham&border_color=2e4058" alt="Lucas Santus" width="46%" align="right"/>
 
