@@ -42,8 +42,8 @@
  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
 </p>
 
-<!-- ## Meu Stats GitHub:
+## Meu Stats GitHub:
 
 <img src="https://github-readme-stats.vercel.app/api?username=LucasSantus&show_icons=true&theme=gotham&border_color=2e4058" alt="Lucas Santus" width="46%" align="right"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSantus&show_icons=true&theme=gotham&layout=compact)](https://github.com/LucasSantus) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSantus&show_icons=true&theme=gotham&layout=compact)](https://github.com/LucasSantus)
