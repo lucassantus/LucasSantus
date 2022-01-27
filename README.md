@@ -38,6 +38,7 @@
 <p>
  <img alt="Django Framework" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />
  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
+ <img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-CC0000?style=flat-square&logo=JEkyll&logoColor=white" />
  <img alt="React Native" src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white" />
  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
 </p>
