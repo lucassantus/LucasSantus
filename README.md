@@ -5,7 +5,7 @@
 - 🌱 Estou aprendendo tecnologias incríveis. 
 
 ## Rede Social
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/lucas-eduardo-de-oliveira-santos-1b3922190/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/lucas-santus/)
  
 ## Tenho Conhecimento Sobre:
 
