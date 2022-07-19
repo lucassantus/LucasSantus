@@ -10,9 +10,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&custom_title=GitHub Stats&username=LucasSantus" height="150" alt="stats graph"  />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&custom_title=GitHub Languages&username=LucasSantus" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h3 align="left">💻 I have knowledge about</h3>
 
 ###
 
@@ -37,7 +40,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" width="42" alt="tailwindcss logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" width="42" alt="materialui logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
 </div>
+
+###
+
+<h3 align="left">👨‍💻 I am studying</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" width="42" alt="materialui logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+</div>
+
+###
+
+<h3 align="left">🚀 Social media</h3>
 
 ###
 
@@ -52,15 +75,8 @@
 
 ###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/LucasSantus/LucasSantus/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasSantus.LucasSantus&left_color=gray&right_color=black&left_text=Visitors"  />
 </div>
 
 ###
-Profile Readme Generator
