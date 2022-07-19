@@ -1,5 +1,9 @@
 <h2 align="left">Hi 👋!</h2>
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasSantus.LucasSantus&left_color=gray&right_color=black&left_text=Visitors"  />
+</div>
+
 ###
 
 <p align="left">🔭 I currently work as a Web Developer.<br>⚡ I'm curious to learn the most varied tools available on the market.<br>🌱 I'm updating amazing technologies.</p>
@@ -75,8 +79,6 @@
 
 ###
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasSantus.LucasSantus&left_color=gray&right_color=black&left_text=Visitors"  />
-</div>
+![snake gif](https://github.com/LucasSantus/LucasSantus/blob/output/github-contribution-grid-snake.svg)
 
 ###
