@@ -13,8 +13,11 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasSantus&include_all_commits=true&count_private=true&theme=tokyonight&custom_title=GitHub Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&custom_title=GitHub Languages&username=LucasSantus" height="150" alt="languages graph"  />
+
+ <img src="https://github-readme-stats.vercel.app/api?username=LucasSantus&include_all_commits=true&count_private=true&theme=tokyonight" height="150" alt="GitHub Statistics" />
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasSantus&layout=compact&theme=tokyonight&card_width=370" height="150" alt="GitHub Languages" />
+
 </div>
 
 ###
@@ -50,20 +53,6 @@
 
 ###
 
-<h3 align="left">👨‍💻 I am studying</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" width="42" alt="materialui logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-</div>
-
-###
-
 <h3 align="left">🚀 Social media</h3>
 
 ###
@@ -71,9 +60,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/lucas-santus/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="leos.developer@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
