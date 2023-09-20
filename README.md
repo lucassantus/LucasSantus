@@ -1,11 +1,11 @@
 <h2 align="left">Hi 👋!</h2>
 
 
-<!--
+
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasSantus.LucasSantus&left_color=gray&right_color=black&left_text=Visitors"  />
 </div>
--->
+
 
 ###
 
